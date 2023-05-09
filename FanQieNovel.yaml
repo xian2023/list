@@ -4,7 +4,7 @@ desc: 用于屏蔽番茄小说app广告
 rule-providers:
   FanQieNovel:
     behavior: domain
-    url: https://raw.githubusercontent.com/xian2023/list/main/FanQieNovel.yaml
+    url: https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Stash/ruleList/FanQieNovel.yaml
     interval: 86400
 
 rules:
